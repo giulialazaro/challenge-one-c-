@@ -1,0 +1,15 @@
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\bin\Debug\net8.0\Desafio1Rocketseat.exe
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\bin\Debug\net8.0\Desafio1Rocketseat.deps.json
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\bin\Debug\net8.0\Desafio1Rocketseat.runtimeconfig.json
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\bin\Debug\net8.0\Desafio1Rocketseat.dll
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\bin\Debug\net8.0\Desafio1Rocketseat.pdb
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\obj\Debug\net8.0\Desafio1Rocketseat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\obj\Debug\net8.0\Desafio1Rocketseat.AssemblyInfoInputs.cache
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\obj\Debug\net8.0\Desafio1Rocketseat.AssemblyInfo.cs
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\obj\Debug\net8.0\Desafio1Rocketseat.csproj.CoreCompileInputs.cache
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\obj\Debug\net8.0\Desafio1Rocketseat.dll
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\obj\Debug\net8.0\refint\Desafio1Rocketseat.dll
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\obj\Debug\net8.0\Desafio1Rocketseat.pdb
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\obj\Debug\net8.0\Desafio1Rocketseat.genruntimeconfig.cache
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\obj\Debug\net8.0\ref\Desafio1Rocketseat.dll
+C:\Users\giulia.amendola\source\repos\Desafio1Rocketseat\Desafio1Rocketseat\obj\Debug\net8.0\Desafio1Rocketseat.sourcelink.json
